@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:maroon;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:maroon;
+    color:black;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+
+<div id="header">
+<h1>INDIAN CUISINE</h1>
+</div>
+
+<div id="nav">
+<a href=project1.htm>HOME</a>
+<a href=projectCatering.htm>CATERING</a>
+<br><a href=projectRecipe.htm>RECIPES</a></br>
+<a href=projectContactUs.htm>CONTACT US</a>
+<br><a href=projectAboutUs.htm>ABOUT US</a></br>
+
+</div>
+
+<div id="section">
+<h4><i><u>APPETIZERS</u></i></h4>
+
+<style>
+div.img {
+    margin: 5px;
+    padding: 5px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: vertical;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+</style>
+
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="https://dabbledoneright-production.s3.amazonaws.com/production/uploads/course/photo/106571/medium_pakora.jpg" alt="pakoras" width="110" height="90"></a>
+ <div class="desc">mixed veg pakora</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://i.ytimg.com/vi/iIVJN0Yz1Y0/maxresdefault.jpg" alt="samosa" width="110" height="90"></a>
+ <div class="desc">samosa</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://i.ytimg.com/vi/CffoPRqgbWY/hqdefault.jpg" alt="paani puri" width="110" height="90"></a>
+ <div class="desc">paani puri</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="https://365daysveg.files.wordpress.com/2008/02/tikki.jpg" alt="aloo tikki" width="110" height="90"></a>
+ <div class="desc">aloo tikki</div>
+</div>
+<div id="section">
+<h4><p><i><u>MAIN COURSE</u></p></i></h4>
+
+<style>
+div.img {
+    margin: 5px;
+    padding: 5px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: vertical;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+</style>
+
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="
+http://s3.scoopwhoop.com/ish/Lucknow/0.jpg" alt="chicken biryanu" width="110" height="90"></a>
+ <div class="desc">chicken biryani</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://cdn.maunikagowardhan.co.uk/wp-content/uploads/2012/01/Gosht-Biryani-4-557x3721.jpg" alt="lamb biryani" width="110" height="90"></a>
+ <div class="desc">lamb biryani</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="https://myfoodtapestry.files.wordpress.com/2013/02/biryani4.jpg" alt="vegetable biryani" width="110" height="90"></a>
+ <div class="desc">vegetable biryani</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://i.ytimg.com/vi/mpRb2VncDHg/maxresdefault.jpg" alt="shrimp biryani" width="110" height="90"></a>
+ <div class="desc">shrimp biryani</div>
+</div>
+
+<div id="section">
+<h4><p><i><u>DESSERTS</u></p></i></h4>
+
+<style>
+div.img {
+    margin: 5px;
+    padding: 5px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: vertical;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+</style>
+
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://www.burrp.com/know/wp-content/uploads/2015/06/Paan-Kulfi.jpg" alt="kulfi" width="110" height="90"></a>
+ <div class="desc">kulfi</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://mushkilnahi.com/wp-content/uploads/2015/03/Rasmalai-1.jpg" alt="rasmalai" width="110" height="90"></a>
+ <div class="desc">rasmalai</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://www.pankajbhadouria.com/images/recipes-images/full/1330827198.jpg" alt="gulab jamun" width="110" height="90"></a>
+ <div class="desc">gulab jamun</div>
+</div>
+<div class="img">
+ <a target="_blank" href="project1.htm"><img src="http://www.fooddefine.com/wp-content/uploads/2014/05/icecream-falooda.jpg" alt="falooda" width="110" height="90"></a>
+ <div class="desc">falooda</div>
+</div>
+
+<div i≈
